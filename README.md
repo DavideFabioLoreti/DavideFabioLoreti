@@ -8,7 +8,7 @@ Sono un appassionato di statistica e analisi dei dati, con competenze in machine
 - **BSc in Statistics**
 
 ## 🛠️ Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=atom,anaconda,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=atom,anaconda,latex,mongodb,mysql,py,r,&perline=3)](https://skillicons.dev)
 
 ## 📫 Contatti
 - Email: [loredade@email.com](link)
