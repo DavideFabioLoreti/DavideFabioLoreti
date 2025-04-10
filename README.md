@@ -8,12 +8,7 @@ Sono un appassionato di statistica e analisi dei dati, con competenze in machine
 - **BSc in Statistics**
 
 ## 🛠️ Tech Stack & Tools
-- ![Python](https://img.icons8.com/color/48/000000/python--v1.png) Python
-- ![R](https://img.icons8.com/color/48/000000/r--v1.png) R
-- ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) MySQL
-- ![Atom](https://img.icons8.com/color/48/000000/atom.png) Atom
+[![My Skills](https://skillicons.dev/icons?i=atom,anaconda,&perline=3)](https://skillicons.dev)
 
 ## 📫 Contatti
 - Email: [loredade@email.com](link)
