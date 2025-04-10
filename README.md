@@ -13,3 +13,4 @@ Sono un appassionato di statistica e analisi dei dati, con competenze in machine
 ## 📫 Contatti
 - Email: [loredade@email.com](link)
 - LinkedIn: [www.linkedin.com/in/davide-fabio-loreti-736965293](link)
+- [LinkedIn](https://www.linkedin.com/in/davide-fabio-loreti-736965293)
