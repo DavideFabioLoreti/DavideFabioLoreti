@@ -12,7 +12,7 @@ Sono un appassionato di statistica e analisi dei dati, con competenze in machine
 ---
 
 ## 🛠️ Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=atom,anaconda,latex,mongodb,mysql,py,r,github,sqlite,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=atom,anaconda,latex,mongodb,mysql,py,r,github,sqlite,tensorflow.sklearn)](https://skillicons.dev)
 
 ---
 
