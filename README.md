@@ -123,9 +123,6 @@ Passionate about **statistics** and **data analysis**, with expertise in machine
 
 <div align="center">
 
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/DavideFabioLoreti/count.svg)
 
 **⭐ Star my repositories if you like my projects!**
 
