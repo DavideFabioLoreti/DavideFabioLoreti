@@ -59,7 +59,7 @@ Passionate about **statistics** and **data analysis**, with expertise in machine
 |----------|-------------|------------|
 | [🚀 Machine-Learning-Project](https://github.com/DavideFabioLoreti/Machine_learning_project) | Predicting heart disease using machine learning techniques | Knime |
 | [🧠 Deep-Learning-Projects](https://github.com/DavideFabioLoreti/Deep-Learning-Projects) | Collection of Deep Learning projects | TensorFlow, Keras, Python |
-| [📊 Data-Management-Project](https://github.com/DavideFabioLoreti/Data-Management-Project) | Managing and analyzing large datasets | SQL, Python, MongoDB |
+| [📊 Data-Management-Project](https://github.com/DavideFabioLoreti/Data-Management-Project) | Managing and analyzing large datasets | Python, MongoDB |
 
 </div>
 
