@@ -58,7 +58,7 @@ Passionate about **statistics** and **data analysis**, with expertise in machine
 
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
-| [🚕 NYC-Trip-Fare-Project](https://github.com/DavideFabioLoreti/NYC-Trip-Fare-Project) | Analysis and prediction of NYC taxi fares | Python, Pandas, Sklearn |
+| [🚀 Machine-Learning-Project](https://github.com/DavideFabioLoreti/Machine_learning_project) | Predicting heart disease using machine learning techniques | Knime |
 | [🧠 Deep-Learning-Projects](https://github.com/DavideFabioLoreti/Deep-Learning-Projects) | Collection of Deep Learning projects | TensorFlow, Keras, Python |
 | [📊 Data-Management-Project](https://github.com/DavideFabioLoreti/Data-Management-Project) | Managing and analyzing large datasets | SQL, Python, MongoDB |
 
