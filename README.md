@@ -17,8 +17,8 @@ Passionate about **statistics** and **data analysis**, with expertise in machine
 - 🎓 **MSc in Data Science** (ongoing)
 - 📊 **BSc in Statistics** 
 - 🔭 Currently working on **Deep Learning** and **Data Management** projects
-- 💡 Interested in: NLP, Computer Vision, Time Series Analysis
-- ⚡ Fun fact: I love finding hidden patterns in data!
+- 💡 Interested in: NLP, ML, Computer Vision, Time Series Analysis
+
 
 ---
 
