@@ -1,31 +1,106 @@
-# Ciao, sono Davide Loreti!
+<div align="center">
+  
+# 👋 Hi, I'm Davide Loreti!
 
-## 🌟 Chi sono
-Sono un appassionato di statistica e analisi dei dati, con competenze in machine learning, programmazione in Python e R, e visualizzazione dei dati. Attualmente, ho una laurea triennale in Statistica e sto proseguendo con una laurea magistrale in Data Science.
+### 📊 Data Science Enthusiast | 🎓 MSc Student | 📈 Statistics Lover
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights+📊;Machine+Learning+%26+Statistical+Analysis;Python+%7C+R+%7C+SQL+Developer)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🎓 Formazione
-- **MSc in Data Science**
-- **BSc in Statistics**
+## 🚀 About Me
+
+Passionate about **statistics** and **data analysis**, with expertise in machine learning, programming, and data visualization. I constantly seek to extract value from data through predictive models and in-depth analysis.
+
+- 🎓 **MSc in Data Science** (ongoing)
+- 📊 **BSc in Statistics** 
+- 🔭 Currently working on **Deep Learning** and **Data Management** projects
+- 🌱 Learning more about **TensorFlow**, **MLOps**, and **Cloud Computing**
+- 💡 Interested in: NLP, Computer Vision, Time Series Analysis
+- ⚡ Fun fact: I love finding hidden patterns in data!
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=atom,anaconda,latex,mongodb,mysql,py,r,github,sqlite,tensorflow,sklearn)](https://skillicons.dev)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### 📚 Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+## 📌 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| [🚕 NYC-Trip-Fare-Project](https://github.com/DavideFabioLoreti/NYC-Trip-Fare-Project) | Analysis and prediction of NYC taxi fares | Python, Pandas, Sklearn |
+| [🧠 Deep-Learning-Projects](https://github.com/DavideFabioLoreti/Deep-Learning-Projects) | Collection of Deep Learning projects | TensorFlow, Keras, Python |
+| [📊 Data-Management-Project](https://github.com/DavideFabioLoreti/Data-Management-Project) | Managing and analyzing large datasets | SQL, Python, MongoDB |
+
+</div>
 
 ---
 
-## 📫 Contatti
-<a href="mailto:loredade@gmail.com">
-  <img src="https://img.shields.io/badge/loredade@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/davide-fabio-loreti-736965293/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="32" style="vertical-align: middle;">
-</a>
+## 📊 GitHub Statistics
 
-### 📊 GitHub Stats
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavideFabioLoreti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![DavideFabioLoreti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavideFabioLoreti&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavideFabioLoreti&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideFabioLoreti&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideFabioLoreti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+
+---
+
+## 📫 Get in Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-loredade@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loredade@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davide_Loreti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-fabio-loreti-736965293/)
+[![GitHub](https://img.shields.io/badge/GitHub-DavideFabioLoreti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavideFabioLoreti)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![Visitor Count](https://profile-counter.glitch.me/DavideFabioLoreti/count.svg)
+
+
+</div>
