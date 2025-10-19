@@ -23,3 +23,9 @@ Sono un appassionato di statistica e analisi dei dati, con competenze in machine
 <a href="https://www.linkedin.com/in/davide-fabio-loreti-736965293/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="32" style="vertical-align: middle;">
 </a>
+
+### 📊 GitHub Stats
+
+![DavideFabioLoreti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavideFabioLoreti&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideFabioLoreti&layout=compact)
