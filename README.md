@@ -72,7 +72,7 @@ Passionate about **statistics** and **data analysis**, with expertise in machine
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavideFabioLoreti&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideFabioLoreti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideFabioLoreti&layout=compact&theme=tokyonight&hide_border=true&langs_count=20)
 
 </div>
 
